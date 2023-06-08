@@ -1,3 +1,6 @@
 import os
-for i in range(8):
-    print(i)
+
+print("hello")
+
+print("toi ten la Huy")
+
